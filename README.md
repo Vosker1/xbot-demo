@@ -17,7 +17,7 @@ Built with flexibility and efficiency in mind, XBot simplifies high-volume engag
 > – ✅ Full browser control via Playwright  
 > – ✅ Instant `.exe` launcher — no terminal required  
 >  
-> 🎯 Request full access via Telegram: [@your_support_bot](https://t.me/your_support_bot)
+> 🎯 Request full access via Telegram: [@XbotTool](https://t.me/XbotTool)
 ## 💡 About This Version
 
 This version is intended for:
