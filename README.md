@@ -132,10 +132,12 @@ We’re happy to assist with activation, debugging, and updates.
 
 ---
 
-## 🔁 Updates
+## 📄 Downloads
 
-The official CA-signed release will be published here as soon as available.  
-Check the [Releases](../../releases) tab for updates.
+📦 [Download XBot Demo Installer (ZIP)](https://github.com/Vosker1/xbot-demo/releases/latest/download/Xbot_Demo_Setup.zip)  
+📘 [Download User Manual (PDF)](./XBot_User_ManualV2.pdf)  
+🧾 [View License Terms](./LICENSE.txt)
+
 
 **Let XBot handle the busywork — you focus on the results.**  
-💬 Full version? [Contact us on Telegram → @XbotTool](https://t.me/XbotTool)
+🔓 [Request your full version license via Telegram → @XbotTool](https://t.me/XbotTool)
