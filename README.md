@@ -4,11 +4,20 @@
 It lets you **auto-like and auto-reply** to posts based on keywords, with optional Telegram alerts and test mode for safe trial runs.  
 Built with flexibility and efficiency in mind, XBot simplifies high-volume engagement across multiple accounts.
 
-> 🛠️ This installer contains the official **XBot Demo version**
+> 🛠️ This installer contains the official **XBot Demo Version**
 
-> ⚠️ This is the **free demo version**, intended to give users insight into how XBot works.  
-> It shows the structure, behavior, and core logic of the tool — but **does not include real scraping or full automation capabilities**.
+> ⚠️ The **free demo version** is designed to give users a clear understanding of how XBot works.  
+> It includes the full interface, test mode, and logging features — but **does not execute real actions on X.com**.
 
+> 🔓 Want to unlock **full automation**? The full version includes:  
+> – ✅ Real-time scraping of your feed or search results  
+> – ✅ Automated replies & likes on live tweets
+> – ✅ Full logs in csv export  
+> – ✅ Telegram alerts with actual tweet content  
+> – ✅ Full browser control via Playwright  
+> – ✅ Instant `.exe` launcher — no terminal required  
+>  
+> 🎯 Request full access via Telegram: [@your_support_bot](https://t.me/your_support_bot)
 ## 💡 About This Version
 
 This version is intended for:
