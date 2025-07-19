@@ -1,4 +1,4 @@
-# XBot – Twitter/X Automation Tool
+# XBot – X.com/Twitter Automation Tool
 
 **XBot** is a powerful automation tool designed for professional use on [Twitter/X](https://x.com).  
 It lets you **auto-like and auto-reply** to posts based on keywords, with optional Telegram alerts and test mode for safe trial runs.  
